@@ -46,14 +46,14 @@
 <body>
 
 <header>
-    <h1>Ильнур Ахметов</h1>
+    <h1>Бикмухаметова Гульназ</h1>
     <p>Разработчик | Программист | Инженер</p>
 </header>
 
 <section class="contact-info">
     <h2>Контактная информация</h2>
-    <p>Email: ваш.email@example.com</p>
-    <p>Телефон: +7 (123) 456-78-90</p>
+    <p>Email: ваш b_gulnaz00@mail.ru</p>
+    <p>Телефон: +7 (9373605104</p>
     <p>GitHub: <a href="https://github.com/ваш_пользователь" target="_blank">github.com/ваш_пользователь</a></p>
     <p>LinkedIn: <a href="https://linkedin.com/in/ваш_профиль" target="_blank">linkedin.com/in/ваш_профиль</a></p>
 </section>
@@ -72,15 +72,14 @@
 <section class="experience">
     <h2>Опыт работы</h2>
     <ul>
-        <li><strong>Компания A</strong> — Разработчик (2020 - настоящее время)</li>
-        <li><strong>Компания B</strong> — Младший разработчик (2018 - 2020)</li>
+        <li><strong>Компания A</strong> — Младший разработчик (2018 - 2020)</li>
     </ul>
 </section>
 
 <section class="education">
     <h2>Образование</h2>
     <ul>
-        <li><strong>Университет A</strong> — Бакалавр в области информатики (2014 - 2018)</li>
+        <li><strong>Университет УГНТУ</strong> — Бакалавр в области информатики (2018 - 2026)</li>
     </ul>
 </section>
 
